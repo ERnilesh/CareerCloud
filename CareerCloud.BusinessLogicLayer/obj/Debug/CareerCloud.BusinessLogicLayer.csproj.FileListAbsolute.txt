@@ -1,0 +1,27 @@
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll.config
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll.config
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\CareerCloud.BusinessLogicLayer.pdb

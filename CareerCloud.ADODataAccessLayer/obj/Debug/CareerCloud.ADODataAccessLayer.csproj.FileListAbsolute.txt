@@ -1,0 +1,23 @@
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll.config
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\user\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll.config
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\user\source\repos\backup careercloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.pdb
